@@ -54,6 +54,16 @@ En primer lugar, realicé distintas consultas para conocer y navegar sobre el da
 
 ![image](https://github.com/ianziano/trabajo_final_edvai/assets/169062674/11a49eee-e991-4b98-bb09-fdf76b378fa9)
 
+Comparto algunas de las queries para la creación de la capa silver:
+
+create table `edvai-2024-421315.Ecommerce_proyecto_final.Dim_products` as
+SELECT p.id, p.cost, p.category, p.name, p.brand, p.retail_price, p.department, p.distribution_center_id
+FROM `bigquery-public-data.thelook_ecommerce.products` p
+
+CREATE TABLE `edvai-2024-421315.Ecommerce_proyecto_final.Dim_users` as
+SELECT u.id, u.city, u.country, u.created_at, u.gender, u.latitude, u.longitude
+FROM `bigquery-public-data.thelook_ecommerce.users` u
+
 Con estas modificaciones realizadas importé directamente desde Big Query a Power Query, donde modifiqué el tipo de variable de los campos de Fecha y Hora como variable únicamente de Fecha.
 
 Luego creé una tabla calendario para poder tener las jerarquías de fecha en caso de que el cliente lo necesite y realicé las relaciones entre las tablas. El Diagrama Entidad Relación para este desarrolló es el siguiente:
