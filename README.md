@@ -52,7 +52,8 @@ Estos objetivos vienen acompañados de los KPIs que se desarrollaron con los equ
 
 En primer lugar, realicé distintas consultas para conocer y navegar sobre el data set original desde la base pública de Big Query. Con esta información, he realizado consultas en la consola de Big Query donde seleccioné las tablas y campos necesarios para luego importar a Power Bi únicamente los datos necesarios para la posterior realización de medidas y visualizaciones. En la siguiente imágen se observa el data set en la capa Bronze y en la capa Silver donde se encuentran los datos que vamos a utilizar para el desarrollo del tablero:
 
-![image](https://github.com/ianziano/trabajo_final_edvai/assets/169062674/11a49eee-e991-4b98-bb09-fdf76b378fa9)
+![image](https://github.com/ianziano/trabajo_final_edvai/assets/169062674/decfb8a2-f3c9-4a81-a0fd-199ee9a5e2c7)
+
 
 Comparto algunas de las queries para la creación de la capa silver:
 
