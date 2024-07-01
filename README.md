@@ -2,6 +2,7 @@
 
 ## Introducción
 
+
 En este proyecto se realizó un análisis del Ecommerce de la marca The Look que se dedica a la venta de indumentaria masculina y femenina. La información fue obtenida desde las bases públicas de Big Query y el foco del análisis esta puesto en las ventas realizadas, principalmente de, la facturación y los objetivos para el año en curso y, también, en el ecommerce y el tráfico de usuarios para poder acompañar los objetivos y las desiciones propuestos por esta área con información actualizada.
 
 La base de datos utilizada desde el repositorio público de big query contiene las siguientes tablas:
@@ -11,9 +12,11 @@ La base de datos utilizada desde el repositorio público de big query contiene l
 ![image](https://github.com/ianziano/Proyecto-EDVAI/assets/169062674/475f5273-8ab9-43d9-8858-ea4cd00fa61b)
 
 
-Para la realización de los desarrollos solicitamos a las áreas de negocio que nos compartan sus objetivos actuales para definir que información vamos a utilizar de todas estas tablas y de que manera vamos a definir las visualizaiones. 
+
+Para la realización de los desarrollos solicitamos a las áreas de negocio que nos compartan sus objetivos para definir que información vamos a utilizar de todas estas tablas y de que manera vamos a definir las visualizaiones. 
 
 ## Objetivos
+
 
 Estos objetivos se dividen para el área de Ventas y de Ecommerce.
 
@@ -42,7 +45,8 @@ Estos objetivos se dividen para el área de Ventas y de Ecommerce.
 
 5- Alcanzar los 80.000 usuarios con compra.
 
-Estos objetivos vienen acompañados de los KPIs que se desarrollaron con los equipos de negocio para poder realizar un seguimiento y cálculo de las métricas para el alcance de estos objetivos. A continuación copio el link al plan de metricas desarrollado que sustenta el desarrollo realizado en Power Bi. https://docs.google.com/spreadsheets/d/1qfVXB0ISH6tU_0HF9s4BsUqqQBrF574-B1im8usHRAw/edit?usp=sharing
+
+Estos objetivos vienen acompañados de los KPIs que se desarrollaron con los equipos de negocio para poder realizar un seguimiento y cálculo de las métricas para el alcance de estos. A continuación copio el link al plan de metricas desarrollado que sustenta el desarrollo realizado en Power Bi. https://docs.google.com/spreadsheets/d/1qfVXB0ISH6tU_0HF9s4BsUqqQBrF574-B1im8usHRAw/edit?usp=sharing
 
 ## Desarrollos
 
@@ -102,10 +106,23 @@ Entre las medidas realizadas se pueden destacar las siguientes:
 
 
 
-### Link a Power Bi Service
+### Power Bi
+
+
+A continuación se agrega un link para poder visualizar el tablero desarrollado para este proyecto:
 
 https://app.powerbi.com/reportEmbed?reportId=59c6eb9c-d471-4930-a9cc-fc43fc694d08&autoAuth=true&ctid=ca0f58d7-fbd0-461f-860d-6a78108097e0
 
+
+Por último agrego capturas del informe:
+
+![image](https://github.com/ianziano/trabajo_final_edvai/assets/169062674/d99202a4-0d66-4c09-bab1-7edf150588a8)
+
+
+![image](https://github.com/ianziano/trabajo_final_edvai/assets/169062674/090b5bd5-5c8e-4e2d-8525-4e2dba9f5cb7)
+
+
+![image](https://github.com/ianziano/trabajo_final_edvai/assets/169062674/c2225c75-7ba9-4992-ad6a-36761578dd34)
 
 
 
