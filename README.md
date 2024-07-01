@@ -104,15 +104,14 @@ Entre las medidas realizadas se pueden destacar las siguientes:
 
 
 
+### Resultados
 
 
-### Power Bi
-
-
-A continuación se agrega un link para poder visualizar el tablero desarrollado para este proyecto:
+A continuación se agrega un link para poder visualizar el tablero desarrollado para este proyecto y un link para poder descargar el archivo .pbix:
 
 https://app.powerbi.com/reportEmbed?reportId=59c6eb9c-d471-4930-a9cc-fc43fc694d08&autoAuth=true&ctid=ca0f58d7-fbd0-461f-860d-6a78108097e0
 
+https://1drv.ms/u/s!AlLwmtPHqjj8gf8N5a7C3BBdlqdCwA?e=4HAPo3
 
 Por último agrego capturas del informe:
 
